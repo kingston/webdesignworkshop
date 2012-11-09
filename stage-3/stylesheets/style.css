@@ -16,6 +16,9 @@ body {
   position: relative;
 }
 #header h1 {
+  font-family: 'Changa One';
+  color: #ffffff;
+  font-size: 4em;
   margin: 0px;
   position: absolute;
   bottom: 0px;
