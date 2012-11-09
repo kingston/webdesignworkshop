@@ -40,3 +40,9 @@ body {
 #header img {
   border-radius: 81px;
 }
+.section h2 {
+  font-family: 'Changa One';
+  color: #982fc3;
+  margin: 0 0 15px;
+  font-size: 2em;
+}
