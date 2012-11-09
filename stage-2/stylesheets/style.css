@@ -1,0 +1,27 @@
+body {
+  background: url('../images/waves.png');
+  background-color: #4a4a4a;
+}
+#wrapper {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #ebebeb;
+  border: 1px solid black;
+  border-top: none;
+  border-bottom: none;
+}
+#header {
+  height: 250px;
+  background: url('../images/agrabah.png');
+  position: relative;
+}
+#header h1 {
+  position: absolute;
+  bottom: 10px;
+  left: 30px;
+}
+#header #profile {
+  position: absolute;
+  right: 30px;
+  bottom: -50px;
+}
